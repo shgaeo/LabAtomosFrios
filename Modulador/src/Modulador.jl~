@@ -51,7 +51,7 @@ destroy(toplevel(img1[1]))
 write_to_png(img1[1],dir4)
 
 
-println("Bienvenido al módulo que controla el SLM. Para empezar utiliza la función inicia. ¡¡Recuerda correr la función finaliza al terminar tu sesión!!")
+println("Bienvenido al módulo que controla el SLM. ¡¡Recuerda correr la función finaliza al terminar tu sesión!!")
 
 sleep(2)
 ##### Esto es para versión con Canvas (no fullscreen) 
